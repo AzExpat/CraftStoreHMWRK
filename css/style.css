@@ -1,5 +1,9 @@
-.search {
-    text-align: right;
-    color: orange;
-    float: right;
-}
+
+.topnav-right {
+    display: block;
+    width: 500px;
+    background-color: yellowgreen;
+  }
+  .form-inline {
+      float: right;
+  }
