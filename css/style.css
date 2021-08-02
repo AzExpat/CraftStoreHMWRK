@@ -1,9 +1,29 @@
-
 .topnav-right {
     display: block;
-    width: 500px;
-    background-color: yellowgreen;
+    margin-left: auto;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #333;
   }
-  .form-inline {
-      float: right;
+  .topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
   }
+ a:hover {
+    text-decoration: underline;
+ }
+a.two:link {color: #7b4e91;}
+a.two:visited {color: #408b91;}
+a.two:hover {font-size:150%;}
+a.two.hover {text-decoration: none !important;}
+
+button {
+    background-color: #7b4e91 !important;
+    color: white !important;
+}
