@@ -26,4 +26,5 @@ a.two.hover {text-decoration: none !important;}
 button {
     background-color: #7b4e91 !important;
     color: white !important;
+    border-style: none !important;
 }
