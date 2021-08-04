@@ -2,7 +2,6 @@
     display: block;
     margin-left: auto;
 }
-
 .navbar {
     overflow: hidden;
     background-color: #333;
@@ -20,7 +19,6 @@
  }
 a.two:link {color: #7b4e91;}
 a.two:visited {color: #408b91;}
-a.two:hover {font-size:150%;}
 a.two.hover {text-decoration: none !important;}
 
 button {
@@ -28,3 +26,6 @@ button {
     color: white !important;
     border-style: none !important;
 }
+a.beads:visited {color: black !important;}
+a.beads:hover {color: orange;} 
+
